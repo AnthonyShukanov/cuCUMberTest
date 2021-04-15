@@ -1,0 +1,13 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber config.js",
+    "wdupdate": "webdriver-manager update",
+    "wdstart": "webdriver-manager start"
+  },
+  "author": "",
+  "license": "ISC"
+}
